@@ -64,7 +64,7 @@ CALCULATE(
 ```
 ## Dashboard Preview
 
-Screenshots/dashboard-preview.png
+![Dashboard Preview](Screenshots/dashboard-preview.png)
 
 ---
 
