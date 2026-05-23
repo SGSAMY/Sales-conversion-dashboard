@@ -30,6 +30,12 @@ The dashboard focuses on quote-to-sale conversion, customer activity, policy mat
 
 ---
 
+## Dashboard Preview
+
+Dashboard screenshots available in the screenshots folder.
+
+---
+
 ## Skills Demonstrated
 
 - Data Visualization
