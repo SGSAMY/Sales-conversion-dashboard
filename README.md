@@ -7,7 +7,11 @@ This Power BI dashboard provides an executive-level overview of sales conversion
 The dashboard focuses on quote-to-sale conversion, customer activity, policy maturity forecasting, year-over-year comparisons, and sales trends across multiple channels.
 
 ---
+## Business Objective
 
+The objective of this dashboard is to help financial services stakeholders monitor sales conversion performance, customer activity, policy maturity trends, and operational KPIs to support business decision-making and forecasting.
+
+---
 ## Key Features
 
 - KPI Reporting
@@ -70,13 +74,25 @@ CALCULATE(
 
 ## Skills Demonstrated
 
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-- Financial Analytics
-- Forecasting
-- Time Intelligence
-- KPI Reporting
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- DAX & Time Intelligence
+- KPI Reporting & Executive Storytelling
+- Forecasting & Trend Analysis
+- Customer Segmentation
+- Financial Services Analytics
+- Interactive Data Visualization
+- Conditional Formatting & UX Design
+
+---
+## Repository Structure
+
+- Dataset/ → Sample dataset used for reporting
+- pbix/ → Power BI dashboard file
+- Screenshots/ → Dashboard preview images
+
+This project was created as part of my Business Intelligence and Data Analytics portfolio to demonstrate Power BI, DAX, and dashboard storytelling capabilities.
 
 ## Author
 Satheesh Gurusamy
