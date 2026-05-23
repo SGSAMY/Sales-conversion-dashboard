@@ -4,12 +4,7 @@
 
 This Power BI dashboard provides an executive-level overview of sales conversion performance for financial products including ISA, JISA, LISA, and Over 50 policies.
 
-The dashboard focuses on quote-to-sale conversion analysis, customer activity monitoring, year-over-year sales comparison, and sales trend analysis across multiple channels.
-
----
-## Business Objective
-
-The objective of this dashboard is to help financial services stakeholders monitor sales performance, customer activity, policy maturity outlook, and operational KPIs to support data-driven business decision-making.
+The dashboard focuses on quote-to-sale conversion analysis, customer activity monitoring, year-over-year sales comparison, and sales trend analysis across multiple channels to support data-driven business decision-making.
 
 ---
 
