@@ -30,6 +30,38 @@ The dashboard focuses on quote-to-sale conversion, customer activity, policy mat
 
 ---
 
+## Sample DAX Measures
+
+### Quote to Sale Conversion %
+
+```DAX
+Quote to Sale Conversion % = 
+DIVIDE(
+    [Total Policies Sold],
+    [Total Quotes]
+)
+```
+
+### YOY Growth %
+
+```DAX
+YOY Sales Growth % = 
+DIVIDE(
+    [Total Sales] - [Sales LY],
+    [Sales LY]
+)
+```
+
+### Previous Year Sales
+
+```DAX
+Previous Year Sales = 
+CALCULATE(
+    [Total Policies Sold],
+    SAMEPERIODLASTYEAR(DateTable[Date])
+)
+
+```
 ## Dashboard Preview
 
 Dashboard screenshots available in the screenshots folder.
