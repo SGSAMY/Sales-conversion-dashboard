@@ -85,10 +85,13 @@ CALCULATE(
 ## Repository Structure
 
 - Dataset/ → Sample dataset used for reporting
-- pbix/ → Power BI dashboard file
 - Screenshots/ → Dashboard preview images
+- pbix/ → Power BI dashboard file
+- README.md
 
-This project was created as part of my Business Intelligence and Data Analytics portfolio to demonstrate Power BI, DAX, and dashboard storytelling capabilities.
+---
+
+This project was created as part of my Business Intelligence and Data Analytics portfolio to demonstrate Power BI, DAX, KPI reporting, forecasting, and dashboard storytelling capabilities.
 
 ## Author
 Satheesh Gurusamy
