@@ -64,7 +64,7 @@ CALCULATE(
 ```
 ## Dashboard Preview
 
-Dashboard screenshots available in the screenshots folder.
+![Dashboard Preview](Screenshots/dashboard-preview.png)
 
 ---
 
